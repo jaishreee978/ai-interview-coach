@@ -63,7 +63,7 @@ firestore.rules
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-interview-coach.git
+git clone https://github.com/jaishree798/ai-interview-coach.git
 ```
 
 Navigate to the project
@@ -147,7 +147,7 @@ saragadam-jaishree-75ab86335
 
 
 
-live link: https://ai.studio/apps/efd43d32-ddb3-4c47-8c37-afed7d8b8719
+live link: https://ai.studio/apps/efd43d32-ddb3-4c47-8c37-afed7d8b8719?fullscreenApplet=true
 
 
 
